@@ -1,0 +1,84 @@
+<style type ="text/css">
+		div.div1
+		{
+			text-align: center;
+			font: 300 15px/1.6 "Helvetica",sans-serif;
+			border-style: solid;
+    		border-width: 5px;
+    		border-color: #ffffff;
+		}
+
+		html
+		{
+			background: #D4D4D2;
+  			color: #1C1C1C;
+		}
+
+		body 
+		{
+  			color: #1C1C1C;
+  			font: 300 15px/1.6 "Roboto Medium",sans-serif;
+  			margin: 0;
+  			padding: 5em 0 2em;
+  			text-align: center;
+  			letter-spacing: 1px;
+		}
+
+		h1 
+		{
+			font: 300 35px/1.6 "Roboto Bold",sans-serif;
+			letter-spacing: 10px;
+  			margin: 0;
+		}
+
+		.numbers
+		{
+			font: 300 30px/1.6 "Roboto",sans-serif;
+			background: #ffffff;
+			color: #212121;
+			height: 75px;
+			width: 75px;
+			border: none;
+		}
+
+		.operator
+		{
+			font: 300 26px/1.6 "Roboto",sans-serif;
+			background: #1D71F2;
+			color: #ffffff;
+			height: 75px;
+			width: 75px;
+			border: none;
+		}
+
+		.eq
+		{
+			font: 300 30px/1.6 "Roboto Light",sans-serif;
+			background: #FF9500;
+			color: #ffffff;
+			height: 150px;
+			width: 75px;
+			border: none;
+		}
+		
+		.clear
+		{
+			font: 300 26px/1.6 "Roboto",sans-serif;
+			background: #D32F2F;
+			color: #ffffff;
+			height: 75px;
+			width: 75px;
+			border: none;
+		}
+
+		.display
+		{
+			font: 300 45px/1.6 "Roboto Light",sans-serif;
+			color: #1b1b1b;
+			background-color: #ffffff;
+			height: 80px;
+			width: 310px;
+			text-align: right;
+			border: solid #212121;
+		}
+</style>
